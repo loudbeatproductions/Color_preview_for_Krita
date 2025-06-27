@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ActionCollection version="2" name="Scripts">
+    <Actions category="Scripts">
+        <text>ColorSwatch</text>
+        <Action name="color_swatch_menu">
+          <text>ColorSwatch</text>
+          <shortcut>none</shortcut>
+        </Action>
+    </Actions>
+</ActionCollection>

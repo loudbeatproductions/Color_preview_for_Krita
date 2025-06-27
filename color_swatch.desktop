@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=color_swatch
+X-Krita-Manual=1
+Name=Color Swatch
+Comment=Shows current brush color in a docker
